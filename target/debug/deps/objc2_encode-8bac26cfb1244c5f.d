@@ -1,0 +1,10 @@
+/Users/joeylin/Documents/comport_rust/target/debug/deps/libobjc2_encode-8bac26cfb1244c5f.rmeta: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs
+
+/Users/joeylin/Documents/comport_rust/target/debug/deps/objc2_encode-8bac26cfb1244c5f.d: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs
+
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/lib.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/encoding_box.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/helper.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/parse.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-3.0.0/src/static_str.rs:
